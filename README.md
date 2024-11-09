@@ -1,2 +1,9 @@
-# Flet-GUI
-自己用来存储项目的库
+# A app Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
